@@ -37,11 +37,26 @@ a <- c(casado=1, solteiro=2, divorciado=3 )
 install.packages('heaven')
 
 
+install.packages('renv')
+install.packages('rmarkdown')
+install.packages('knitr')
+install.packages('tidyverser')
+install.packages('readxl')
+install.packages('janitor')
 
-
-
-
-
+install.packages('GEOquery')
+install.packages('EdgeR')
+install.packages('limma')
+install.packages('pheatmap')
+install.packages('ggplotify')
+install.packages('heatmaply')
+install.packages('FactoMineR')
+install.packages('factoextra')
+install.packages('fgsea')
+install.packages('clusterPorfiler')
+install.packages('enrichplot')
+install.packages('org.Hs.eg.db')
+install.packages('enrichR')
 
 
 
