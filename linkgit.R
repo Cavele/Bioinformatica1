@@ -62,9 +62,10 @@ install.packages('haven')
 library('haven')
 incluidos=read_dta("C:\\Users\\Nilzio Cavele\\OneDrive - INS - Instituto Nacional de Saúde\\Vigilancia HDSS\\incluidos.dta")
 
+install.packages('foreign')
 
-
-
+library('foreign')
+write.dta(incluidos, "C:\\Users\\Nilzio Cavele\\Documents\\Bioinformatica\\Bioinformatica1\\incluidos.dta")
 
 
 
