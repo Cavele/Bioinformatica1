@@ -58,6 +58,10 @@ install.packages('enrichplot')
 install.packages('org.Hs.eg.db')
 install.packages('enrichR')
 
+install.packages('haven')	
+library('haven')
+incluidos=read_dta("C:\\Users\\Nilzio Cavele\\OneDrive - INS - Instituto Nacional de Saúde\\Vigilancia HDSS\\incluidos.dta")
+
 
 
 
