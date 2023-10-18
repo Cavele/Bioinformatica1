@@ -34,6 +34,9 @@ vect <- c(F = 1, B = 2, C = 3, D = 4, E = 5)
 a <- c(casado=1, solteiro=2, divorciado=3 )
 
 
+install.packages('heaven')
+
+
 
 
 
